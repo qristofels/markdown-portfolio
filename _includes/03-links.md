@@ -1,1 +1,1 @@
-[GitHib](https://github.com/qristofels/hello-world)
+[GitHub](https://github.com/qristofels/hello-world)
